@@ -1,7 +1,6 @@
 - 👋 Hi guys, I am Ante. I have a Bachelor of Technology focused in Web design & Data. 
 I am an experienced web developer with focus on front-end, using Javascript and its frameworks. 
 -  ⚡ I am involved in a lot of organizational works, hackathons, tech debt, and releasing new features.
-- 👀 I’m currently 
 - 🌱 I’m currently learning svelte & sveltekit 🎆😎
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me here:
